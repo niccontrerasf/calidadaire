@@ -1,0 +1,27 @@
+{
+  "name": "calidadaire",
+  "version": "1.0.0",
+  "description": "Obtener info calidad de aire de una determinada ciudad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niccontrerasf/calidadaire.git"
+  },
+  "keywords": [
+    "aire",
+    "calidadaire"
+  ],
+  "author": "Nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicccontrerasf/calidadaire/issues"
+  },
+  "homepage": "https://github.com/niccontrerasf/calidadaire#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
