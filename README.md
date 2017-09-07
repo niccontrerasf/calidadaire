@@ -28,4 +28,12 @@ Ejemplo: "Santiago"
 ```sh
 curl -I http://localhost:80/api/santiago
 ```
+## Test mocha
+
+Instalar dev-dependencies en package.json. El test valida si los request a la api responde a la entrada de un parámetro. 
+
+```
+npm test
+```
+
 ![alt text](https://raw.githubusercontent.com/niccontrerasf/calidadaire/master/Captura.PNG)
