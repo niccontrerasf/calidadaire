@@ -1,6 +1,7 @@
 # calidadaire
 
 Web que obtiene datos de calidad de aire de una determinada ciudad, representando los datos en el mapa y en un cuadro resumen.
+
 *Se adjunta JSDOC en carpeta ./out
 
 ## Ejecucion
