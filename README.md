@@ -28,5 +28,4 @@ Ejemplo: "Santiago"
 ```sh
 curl -I http://localhost:80/api/santiago
 ```
-
-
+![alt text](https://raw.githubusercontent.com/niccontrerasf/calidadaire/master/Captura.PNG)
